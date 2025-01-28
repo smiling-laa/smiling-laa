@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smiling-laa
+- 👋 Hi, I’m @lauren-blessing.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on making a calculator work.
