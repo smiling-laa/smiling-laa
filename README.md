@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/alixinternatio2?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/alixinternatio2?s=09?logo=twitter&style=for-the-badge" alt="https://x.com/alixinternatio2?s=09" /></a> </p>
 
-- 🔭 I’m currently working on **A HRS for Jusure Construction Company LTD**
-
 - 🌱 I’m currently learning **Bootstrap**
 
 - 💬 Ask me about **Html and Css**
